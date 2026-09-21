@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">应用清单</string>
+
+    <string name="action_load">加载</string>
+    <string name="action_copy">复制</string>
+
+    <string name="filter_all">全部应用</string>
+    <string name="filter_all_with_count">全部应用 (%1$d)</string>
+    <string name="filter_launchable">仅可启动</string>
+    <string name="filter_launchable_with_count">仅可启动 (%1$d)</string>
+
+    <string name="status_idle">点「加载」读取本机应用列表</string>
+    <string name="status_loading">正在读取…</string>
+    <string name="status_done_all">全部应用共 %1$d 个（可启动 %2$d 个）</string>
+    <string name="status_done_launchable">可启动应用共 %1$d 个（总数 %2$d 个）</string>
+    <string name="status_error">读取失败：%1$s</string>
+
+    <string name="clip_summary_all">全部应用共 %1$d 个（可启动 %2$d 个）</string>
+    <string name="clip_summary_launchable">可启动应用共 %1$d 个（总应用 %2$d 个）</string>
+    <string name="toast_copied">已复制 %1$d 条到剪贴板</string>
+    <string name="toast_nothing">没有可复制的内容</string>
+    <string name="toast_copy_failed">复制失败：%1$s</string>
+</resources>
